@@ -1,5 +1,4 @@
-Mis disculpas por la confusión anterior. A continuación, te proporcionaré un manual sin incluir ningún código.
-
+#Calculo de poligono Regular
 # Manual: Cálculo del perímetro de un polígono regular
 
 Este manual describe los pasos para utilizar un programa en C# y calcular el perímetro de cualquier polígono regular.
